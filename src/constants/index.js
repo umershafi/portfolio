@@ -120,7 +120,7 @@ import {
       title: "Software Engineer Intern",
       company_name: "Monster Energy",
       icon: monster,
-      iconBg: "#E6DEDD",
+      iconBg: "#000000",
       date: "June 2023 - August 2023",
       points: [
         "Contributed to the eCommerce website by writing and reviewing over 100 test cases, reducing pre-production bugs and ensuring a coverage of 90%.",
@@ -132,7 +132,7 @@ import {
       title: "Undergraduate Teaching Assistant",
       company_name: "UCLA Department of Computer Science",
       icon: uclacs,
-      iconBg: "#E6DEDD",
+      iconBg: "#0073cf",
       date: "March 2024 - July 2024",
       points: [
         "Developed and presented comprehensive course materials on NLP topics such as LLMs, neural networks, and transformers to 50 students, resulting in a 15% increase in exam scores.",
